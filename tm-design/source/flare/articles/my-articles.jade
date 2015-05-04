@@ -1,0 +1,12 @@
+extends ../_layouts/flare_page
+include ../mixins/articles-mixins
+include ../mixins/application-mixins
+
+block content
+  #application
+    #left-column
+      +left-navigation
+    #content
+      +saved-articles
+    #right-column
+      +filters-div

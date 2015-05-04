@@ -1,0 +1,12 @@
+extends ../_layouts/flare_page
+include mixins/prod-application-mixins.jade
+
+block content
+  #application
+    #left-column
+        +left-navigation
+    #content
+      +start-view
+      +copyright
+    #right-column
+      +filters-div
