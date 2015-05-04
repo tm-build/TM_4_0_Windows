@@ -48,7 +48,7 @@
     "url": "https://github.com/swagger-api/swagger-js/issues"
   },
   "_id": "swagger-client@2.1.4-M1",
-  "_shasum": "e7413a77079395d1ac7a677c4b9c6f08452c00f5",
+  "_shasum": "11b6fcf12302f387871b0278f9e8734876463349",
   "_from": "git://github.com/TeamMentor/swagger-js.git",
   "_resolved": "git://github.com/TeamMentor/swagger-js.git#2f8331273bedeef973fe97d2ce7f615b99616b22",
   "_fromGithub": true
